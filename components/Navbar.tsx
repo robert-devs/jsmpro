@@ -27,7 +27,7 @@ const Navbar = () => {
                         Next.js 13.5 course
                     </Link>     
                 </li>
-                <li className='body-text text-gradient_blue-purple !font-normal'>
+                <li className='body-text !font-normal'>
                     <Link href="https://jmastery.pro/masterclass" target='_blank'>
                         masterclass
                     </Link>     
